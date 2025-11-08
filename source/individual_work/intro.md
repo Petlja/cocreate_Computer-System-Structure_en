@@ -1,37 +1,22 @@
-# Uvod
+# Introduction
 
-Dragi učenici,
+Dear students,
 
-kao domaću zadaću izrađivali ste mentalnu mapu ključnih pojmova.
+As homework, you created a **mind map of key concepts.**
+Let’s now review your group mind maps together!
 
-Pogledajmo zajedno izrađene mentalne mape!
+In this lesson, you will apply your knowledge of **computer components**.
+First, you will **individually analyse several computer configurations,** and then, in groups, **choose laptop configuration** for a specific purpose.
 
-Danas ćete raditi na zadacima u kojima primjenjujete znanje o računalnim
-komponentama.
+It is important to follow instructions, collaborate in your team, and explain your decisions clearly.
 
-Prvo ćete samostalno analizirati nekoliko konfiguracija računala, a
-zatim u grupama osmisliti konfiguraciju prijenosnog računala za određenu
-namjenu.
+In the next activity, you will **complete a quiz on your computer.**
 
-Važno je da pratite upute, surađujete u timu i obrazložite svoje odluke.
+Your task is to **analyse four different computer configurations** and, using your group’s mind map, answer the given questions.
 
-Vaš rad ocjenjuje se kroz samostalni zadatak (10 bodova) i grupni
-zadatak (10 bodova).
+Be careful – there may be **one or more correct answers.**
 
-| Ocjena           | bodovi |
-|------------------|--------|
-| Odličan (5)      | 18-20  |
-| Vrlo dobar (4)   | 15-17  |
-| Dobar (3)        | 12-14  |
-| Dovoljan (2)     | 10-12  |
-| Nedovoljan (1)   | 0-9    |
+**Time limit:** 10 minutes
 
-
-U idućoj aktivnosti samostalno rješavaš zadatke na računalu.
-
-Tvoj je zadatak analizirati četiri različite konfiguracije računala i, uz pomoć mentalne mape tvoje grupe, odgovoriti na pitanja. Pazi, može biti jedan ili više točnih odgovora.
-
-Predviđeno vrijeme: **15 min**    
-
-Nakon predaje dobit ćeš automatsku povratnu informaciju o uspješnosti te ćemo zajedno prokomentirati odgovore.
+After submitting your answers, you will receive **automatic feedback** about your results, which we will then discuss together.
 

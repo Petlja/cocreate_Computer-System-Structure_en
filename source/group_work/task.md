@@ -1,50 +1,40 @@
-# Zadatak
+# Task
 
-## (30 minuta)
+## (30 minutes)
 
-Sada kada ste raspoređeni u grupe, započnite s radom na pronalaženju
-prijenosnog računala koje najbolje odgovara vašem scenariju. Za grupni
-rad imate ukupno 30 minuta. Od toga je 20 minuta predviđeno za
-istraživanje i dogovor u timu, a preostalih 10 minuta za unos podataka u
-Google Slides i pripremu prezentacije.
+Now that you are in your groups, start working on finding the laptop that best fits your assigned scenario.
+You have **30 minutes** for the entire group task:
+-	20 minutes for research and decision-making
+-	10 minutes for entering data into Google Slides and preparing the presentation.
 
-**Osmislite konfiguraciju prijenosnog računala za dodijeljeni scenarij i
-odgovorite na sljedeća pitanja:**
+**Group Task**
+**Choose a laptop configuration** for your assigned scenario and answer the following questions:
+-	What type of processor do you need – how many cores and what approximate clock speed?
+-	How much RAM is sufficient for your purpose?
+-	What type and capacity of storage do you need?
+-	What additional features must the laptop have (e.g. graphics card, ports, operating system, screen size and resolution)?
 
--   Kakav vam je procesor potreban -- koliko jezgri i koliki približan
-    takt procesora?
+Using the agreed specifications, find a **laptop model** in a national online store that best matches your requirements.
+Try to find the **best possible value for the available budget.**
 
--   Koliki kapacitet radne memorije je dovoljan za vašu namjenu?
+Then prepare one slide in your group’s shared **Google Slides** document.
 
--   Koju vrstu i koliki kapacitet masovne memorije trebate?
+The slide should include:
+-	Group name, laptop purpose, and budget
+-	Technical specifications (processor, RAM, storage, OS, and other details)
+-	A link to the online store where you found your chosen laptop
+Prepare a **3–4 minute presentation** explaining:
+-	Why you selected these specifications
+-	Why you chose this specific laptop
+-	How it meets the user’s needs in the given scenario
 
--   Što računalo još mora imati obzirom na vašu namjenu (npr. grafička
-    kartica, portovi, operacijski sustav, veličina i kvaliteta
-    zaslona...)?
 
--   Na temelju dogovorenih specifikacija, u hrvatskoj internetskoj
-    trgovini pronađite model prijenosnog računala koji najbolje odgovara
-    vašim zahtjevima. Pokušajte dobiti najbolju vrijednost za
-    raspoloživi novac.
--   Na temelju dogovorenih specifikacija pripremite jedan slajd u
-    zajedničkom dokumentu Google Slides. Slajd treba sadržavati:
-    -   Naziv grupe, namjenu prijenosnog računala i budžet
-    -   Tehničke specifikacije (procesor, RAM, masovna memorija, OS i
-    ostalo)
-    -   Slika odabranog laptopa i poveznica na trgovinu
+Let’s move on to the presentations — it’s time to share your group’s solutions!
 
--   Pripremite kratko izlaganje (3--4 minute) u kojem ćete objasniti:
-    -   Zašto ste odabrali te specifikacije?
-    -   Zašto baš to prijenosno računalo?
-    -   Kako odgovara potrebama korisnika iz scenarija?
-
-## Zajednički Google Slides
-
-```{questionnote} 
-**Da li je ugodno popuniti slajt u iFrame-u?**
-```
+Listen carefully to the presentations of other groups so you can take part in the discussion.
 
 ```{raw} html
 <div style="text-align: center">
     <iframe src="https://docs.google.com/presentation/d/1W41OjhRM2RbhuMk1HqbDxpIDSZq-cLknv4WYZW26K1w/edit?usp=share_link" width="100%" height="600px" frameborder="0" allow="fullscreen; allowfullscreen></iframe>
 </div>
+

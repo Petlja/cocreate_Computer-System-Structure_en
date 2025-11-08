@@ -1,11 +1,12 @@
 ---
 status: exclude
 ---
-# Grupni rad
+# Group Work
 
 ```{toctree}
 :maxdepth: 2
 
 intro
-evaluation
+task
+reflection
 ```

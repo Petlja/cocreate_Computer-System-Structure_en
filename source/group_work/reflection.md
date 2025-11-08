@@ -1,32 +1,17 @@
-# Refleksija
+# Reflection
 
-## (5 minuta)
+At the end of the lesson, take a few minutes to reflect on your work and your team’s collaboration.
 
-Na kraju sata odvoji nekoliko minuta da promisliš o vlastitom radu i
-radu grupe.
+Complete a short **reflection questionnaire** and join the class discussion.
 
-Ispuni kratki upitnik za refleksiju i sudjeluj u zajedničkoj raspravi.
+**Reflection Questionnaire**
 
-## Upitnik
+Rate how well your team followed the collaboration principles on a scale from **1 to 4**:
+- 1 – Does not apply to my team at all
+- 2 – Mostly does not apply to my team
+- 3 – Applies to my team
+- 4 – Fully applies to my team
 
-Ocijenite koliko grupa poštuje navedena pravila na skali od 1 do 4.
-
-```{technicalnote} 
-Skala ocjenjivanja:
-
-1 -- Uopće nije poštovano
-
-2 -- Većinom nije poštovano
-
-3 -- Većinom poštovano
-
-4 -- U potpunosti poštovano
-```
-
-```{infonote} 
-Ako je ocjena niža od 3 trebate probati poboljšati taj dio
-funkcioniranja grupe.
-```
 
 ```{raw} html
 <div style="text-align: center">
