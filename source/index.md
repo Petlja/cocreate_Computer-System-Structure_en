@@ -1,21 +1,21 @@
 ﻿---
 status: exclude
-alias: cocreate_Computer-System-Structure_cro
+alias: cocreate_Computer-System-Structure_en
 lang: en
-short_description: Građa računala – dijelovi računala i programska oprema
+short_description: Computer Architecture— computer parts and software
 long_description: >
-    <p>U ovoj lekciji ćeš naučiti prepoznati i razumjeti osnovne dijelove računala. Kroz praktične zadatke izrađivat ćeš mentalne mape, analizirati različite računalne konfiguracije i u timu odabrati optimalni prijenosni računalni model za određene potrebe. Razvijat ćeš vještine timske suradnje, argumentacije odabira i izradu prezentacija na zanimljiv i kreativan način.</p>
+    <p>In this lesson you will learn to recognize and understand the basic parts of a computer. Through practical tasks you will create mind maps, analyze different computer configurations, and, as a team, select the optimal laptop model for specific needs. You will develop teamwork skills, the ability to justify your choices, and create presentations in an engaging and creative way.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
     <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - Prepoznavanje osnovnih dijelove računala i njihovih funkcija.
-    - Razlikovanje vrste programske opreme.
-    - Analiziranje i uspoređivanje konfiguracije računala.
-    - Obrazlaganje izbora računala za osobne potrebe.
-    - Sudjelovanje u timskom rješavanju problemskog zadatka.
+    - Recognize the basic parts of a computer and their functions.
+    - Distinguish between types of software.
+    - Analyze and compare computer configurations.
+    - Justify the choice of a computer for personal needs.
+    - Participate in team-based problem-solving tasks.
 
 needed: 
     - A personal computer
@@ -24,7 +24,6 @@ useful: []
 
 # Data Analysis - Visualization
 
-You are about to start an introductory course ......
 
 Course author: Petlja Foundation
 
