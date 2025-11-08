@@ -1,9 +1,9 @@
 # Assessment Overview
 
 Your work will be evaluated according to three components:
-•	**Mind map creation** – structure, content, clarity, and collaboration (10 points)
-•	**Independent task** – accuracy and understanding in the quiz (10 points)
-•	**Group work** – contribution to teamwork, reasoning, and participation in discussion (10 points)
+-	**Mind map creation** – structure, content, clarity, and collaboration (10 points)
+-	**Independent task** – accuracy and understanding in the quiz (10 points)
+-	**Group work** – contribution to teamwork, reasoning, and participation in discussion (10 points)
 
 | Grade | Points|
 |-------|-------|
