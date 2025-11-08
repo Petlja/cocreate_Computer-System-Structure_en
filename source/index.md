@@ -1,21 +1,25 @@
 ﻿---
 status: exclude
-alias: PLCT_Template
-short_description: Short course description
+alias: cocreate_Computer-System-Structure_cro
+lang: en
+short_description: Građa računala – dijelovi računala i programska oprema
 long_description: >
-    <p>This course will introduce you ...</p>
+    <p>U ovoj lekciji ćeš naučiti prepoznati i razumjeti osnovne dijelove računala. Kroz praktične zadatke izrađivat ćeš mentalne mape, analizirati različite računalne konfiguracije i u timu odabrati optimalni prijenosni računalni model za određene potrebe. Razvijat ćeš vještine timske suradnje, argumentacije odabira i izradu prezentacija na zanimljiv i kreativan način.</p>
     <p>
     <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">
     <img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png"></a>
     <br>This course was published by Petlja Foundation under the <a rel="license" href="https://creativecommons.org/licenses/by/4.0/deed.sr_LATN">Creative Commons Attribution 4.0 International License (CC BY 4.0)</a>.
     </p>
 will_learn:
-    - What will you learn?
+    - Prepoznavanje osnovnih dijelove računala i njihovih funkcija.
+    - Razlikovanje vrste programske opreme.
+    - Analiziranje i uspoređivanje konfiguracije računala.
+    - Obrazlaganje izbora računala za osobne potrebe.
+    - Sudjelovanje u timskom rješavanju problemskog zadatka.
 
 needed: 
-    - A personal computer with an up-to-date version of *Windows 11* operating system
-useful:
-    - Python 3.12 documentation: https://docs.python.org/3.12/
+    - A personal computer
+useful: []
 ---
 
 # Data Analysis - Visualization
@@ -33,5 +37,6 @@ This course is published by Petlja Foundation under the
 :caption: Contents
 :hidden:
 
-welcome/index
-detailed/index
+preparation/index
+individual_work/index
+group_work/index

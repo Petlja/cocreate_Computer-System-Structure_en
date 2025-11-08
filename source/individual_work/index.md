@@ -1,10 +1,10 @@
 ---
 status: exclude
 ---
-# Detailed
+# Samostalni rad
 
 ```{toctree}
 :maxdepth: 2
 
-activity_example
+intro
 ```
