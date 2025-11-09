@@ -2,7 +2,7 @@
 status: exclude
 alias: cocreate_Computer-System-Structure_en
 lang: en
-short_description: Computer Architecture— computer parts and software
+short_description: Computer Architecture — computer parts and software
 long_description: >
     <p>In this lesson you will learn to recognize and understand the basic parts of a computer. Through practical tasks you will create mind maps, analyze different computer configurations, and, as a team, select the optimal laptop model for specific needs. You will develop teamwork skills, the ability to justify your choices, and create presentations in an engaging and creative way.</p>
     <p>
