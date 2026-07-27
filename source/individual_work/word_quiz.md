@@ -1,6 +1,6 @@
 # Quiz: Computer Configuration
 
-![Computer configurations](images/image1.png)
+![Computer configurations](images/image1_en.png)
 
 ```{mchoice}
 :answer1: 1;

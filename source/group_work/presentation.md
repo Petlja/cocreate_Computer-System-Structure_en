@@ -27,7 +27,7 @@ Design a laptop configuration for your assigned scenario and answer the followin
 ```{raw} html
 <div style="text-align: center">
     <iframe width="768" height="432"
-    src="https://docs.google.com/presentation/d/16kmO5vkANgAS2JJKsQMFN2KVORtKCq9o1ILz20ClMZ0/edit?slide=id.g37c7171be75_0_1122#slide=id.g37c7171be75_0_1122"
+    src="https://docs.google.com/presentation/d/15ZmOegFN4OLPBNi91L1jidnZmy-NntaiF-goschRuco/edit?slide=id.p1#slide=id.p1"
     frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
     clipboard-write" allowfullscreen>
     </iframe>

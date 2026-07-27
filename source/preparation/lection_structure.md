@@ -2,7 +2,7 @@
 
 **This lesson has three components:**
 
-![Lesson structure image](images/Slika_1_CRO.png)
+![Lesson structure image](images/Slika_1_EN.png)
 
 At the end of the lesson, each part of your work will be evaluated:
 

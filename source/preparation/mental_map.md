@@ -21,7 +21,7 @@
 ```{raw} html
 <div style="text-align: center">
     <iframe width="768" height="432"
-    src="https://miro.com/welcomeonboard/M2o5Y1oybWg3TUpuOGFqdVRFTHdwZzVqZEkxb2NrMW9CU3pkR0ZwNGhHemZGTjdBNXlzMThsT0tSMFA5WlovTGRQbWdIWlIwVkx3LzBuR20zTWR1QkowZ1liOUdSMlRFWnQrVnQ3UFhxTFpHWktlb2dQNWpHUmlnc21ya3c0alh0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=667856761052"
+    src=" https://miro.com/app/board/uXjVH8mw4jg=/?share_link_id=775299696754"
     frameborder="0" scrolling="no" allow="fullscreen; clipboard-read;
     clipboard-write" allowfullscreen>
     </iframe>

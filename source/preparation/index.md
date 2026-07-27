@@ -1,7 +1,7 @@
 ---
 status: exclude
 ---
-# Uvod
+# Introduction
 
 ```{toctree}
 :maxdepth: 2
