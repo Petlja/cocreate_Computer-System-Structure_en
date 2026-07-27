@@ -1,11 +1,10 @@
 ---
 status: exclude
 ---
-# Independent Work
+# Appendix
 
 ```{toctree}
 :maxdepth: 2
 
-intro
-word_quiz
+
 ```
