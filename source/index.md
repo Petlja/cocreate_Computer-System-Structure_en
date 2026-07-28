@@ -1,6 +1,6 @@
 ﻿---
 status: exclude
-alias: cocreate_Computer-System-Structure_cro
+alias: cocreate_Computer-System-Structure_en
 lang: en
 short_description: Građa računala – dijelovi računala i programska oprema
 long_description: >
