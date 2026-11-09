@@ -14,4 +14,3 @@
 
 These concepts were gradually explored in previous lessons and now, for homework, you will organise them into a mind map. Your mind map will serve as support for individual and group tasks in the next lesson.
 
-If you are not fully familiar with some of these concepts, we suggest you watch the following video: [Basic computer components](https://www.youtube.com/watch?v=tbNRCC9loMs)
